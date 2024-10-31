@@ -3,3 +3,7 @@
 The repository contains a [configuration](./esphome.yaml) for [ESPHome](https://esphome.io/)
 
 ![image](./images/zenner_as5600.jpg)
+
+![image](./images/watermeter_bb.png)
+
+![image](./images/watermeter_schema.png)
